@@ -20,8 +20,9 @@ The portfolio is designed to showcase Mart's skills, projects, and contact infor
 * Contact
 
 
-   Key Features
--------------------
+
+     Key Features
+-----------------------
 
 * Logo: A distinctive logo in the top-left corner adds a personal touch and enhances brand identity.
 
