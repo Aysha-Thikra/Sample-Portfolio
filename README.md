@@ -19,29 +19,30 @@ The portfolio is designed to showcase Mart's skills, projects, and contact infor
 * My Services
 * Contact
 
-  
+
    Key Features
 -------------------
 
-Logo: A distinctive logo in the top-left corner adds a personal touch and enhances brand identity.
+* Logo: A distinctive logo in the top-left corner adds a personal touch and enhances brand identity.
 
-Navigation Bar: Explore Mart Katen's portfolio seamlessly with a simple and intuitive navigation bar offering 
-                quick access to Home, About, My Services,and Contact sections.
+* Navigation Bar: Explore Mart Katen's portfolio seamlessly with a simple and intuitive navigation bar offering 
+                  quick access to Home, About, My Services,and Contact sections.
 
-Home: Navigate to the landing section.This landing section provides a brief yet impactful overview of Mart Katen,
-      setting the tone for the entire portfolio.
+* Home: Navigate to the landing section.This landing section provides a brief yet impactful overview of Mart Katen,
+        setting the tone for the entire portfolio.
 
-About: Learn more about Mart, including background, and interests.
+* About: Learn more about Mart, including background, and interests.
 
-My Services: Discover Mart's expertise in web development, content writing, 
-             video editing, and photo editing through the dedicated "My Services" section.
+* My Services: Discover Mart's expertise in web development, content writing, 
+               video editing, and photo editing through the dedicated "My Services" section.
              
-Contact: Easily get in touch with Mart Katen through the Contact section, where you'll find essential contact information.
+* Contact: Easily get in touch with Mart Katen through the Contact section, where you'll find essential contact information.
 
-                             ----------------------------  Thank you for visiting Mart Katen's Professional Portfolio!  -----------------
 
 <img width="959" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/202fafdf-004f-4675-bef6-f89b07b484cb">
 <img width="957" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/f1195042-4fb0-4f2e-a33d-96d2f6398bc7">
 <img width="960" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/2fdeb0f5-496a-49a7-ac52-fdab90aacdb3">
 <img width="959" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/b99dd9b4-4237-4d15-9a5a-1fe19bb4a433">
 <img width="960" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/3ee25125-18d0-4cc1-b23f-6cf6e2c7772b">
+
+Thank you for visiting Mart Katen's Professional Portfolio!
