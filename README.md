@@ -50,4 +50,4 @@ This portfolio is designed to showcase Mart's skills, projects, and contact info
 
 
 
-Thank you for visiting Mart Katen's Professional Portfolio!
+Thank you for visiting Mart Katen's Portfolio!
