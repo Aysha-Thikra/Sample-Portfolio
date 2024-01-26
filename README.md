@@ -14,10 +14,10 @@ The portfolio is designed to showcase Mart's skills, projects, and contact infor
 
   Table of Contents
 -----------------------
-> Home
-> About
-> My Services
-> Contact
+* Home
+* About
+* My Services
+* Contact
 
    Key Features
 -------------------
