@@ -42,7 +42,7 @@ The portfolio is designed to showcase Mart's skills, projects, and contact infor
 
 <img width="959" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/202fafdf-004f-4675-bef6-f89b07b484cb">
 <img width="957" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/f1195042-4fb0-4f2e-a33d-96d2f6398bc7">
-<img width="960" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/2fdeb0f5-496a-49a7-ac52-fdab90aacdb3">
+<img width="960" alt="Screenshot 2024-01-26 144130" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/7a665beb-63e1-4c7c-bb8e-93974a18eb72">
 <img width="959" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/b99dd9b4-4237-4d15-9a5a-1fe19bb4a433">
 <img width="960" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/3ee25125-18d0-4cc1-b23f-6cf6e2c7772b">
 
