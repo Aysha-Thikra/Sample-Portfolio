@@ -64,15 +64,13 @@ nav {
 	justify-content: space-between;
   }
   
-  nav .logo a {
+  nav a {
 	font-size: 1.5rem;
 	font-weight: 600;
 	color: var(--primary-color);
 	transition: 0.3s;
   }
-  nav .logo a:hover {
-	color: var(--primary-color-dark);
-  }
+
 
   nav i {
 	font-size: 2rem;
@@ -249,7 +247,7 @@ textarea {
 	font-size: 26px;
 	text-align: center;
 	margin-top: 60px;
-	color: #044f52;
+	color: #9A3B3B;
 }
 
 .contact h4 {
@@ -263,6 +261,7 @@ textarea {
 	font-size: 16px;
 	margin-top: 5px;
 }
+
 
                     /***********************  FOOTER SECTION  *******************/
 .footer {
