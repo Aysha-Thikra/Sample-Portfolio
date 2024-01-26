@@ -1,4 +1,4 @@
-Mart Katen's Personal Portfolio !
+Mart Katen's Personal Portfolio
 
 Welcome to Mart Katen's personal portfolio! This repository contains the HTML and CSS code for Mart's online portfolio.
 The portfolio is designed to showcase Mart's skills, projects, and contact information in a clean and user-friendly manner.
