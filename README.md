@@ -21,7 +21,7 @@ The portfolio is designed to showcase Mart's skills, projects, and contact infor
 
 
 
-     Key Features
+  Key Features
 -----------------------
 
 * Logo: A distinctive logo in the top-left corner adds a personal touch and enhances brand identity.
@@ -45,5 +45,7 @@ The portfolio is designed to showcase Mart's skills, projects, and contact infor
 <img width="960" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/2fdeb0f5-496a-49a7-ac52-fdab90aacdb3">
 <img width="959" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/b99dd9b4-4237-4d15-9a5a-1fe19bb4a433">
 <img width="960" alt="image" src="https://github.com/Aysha-Thikra/Sample-Portfolio/assets/154992188/3ee25125-18d0-4cc1-b23f-6cf6e2c7772b">
+
+
 
 Thank you for visiting Mart Katen's Professional Portfolio!
